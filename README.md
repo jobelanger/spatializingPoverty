@@ -1,6 +1,7 @@
 # Spatializing Poverty
 
 Morocco Accessibility Model
+
 This model measures travel time from villages in Tinghir Province, Morocco, to 3 key services of interest: health services, markets (commune centres), and schools. Travel mode is driving*. 
 
 *Walking will be modeled for villages over 5km from a road. This function is not currently in the model.
